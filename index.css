@@ -1,0 +1,49 @@
+.navbar-text {
+  color: rgb(231, 231, 54) !important;
+}
+
+.btn-outline-danger {
+  margin-right: 80%;
+}
+
+.brand-name {
+  text-align: center;
+}
+
+.green {
+  color: #28a745 !important;
+  text-decoration: none !important;
+}
+
+.green:hover {
+  color: whitesmoke !important;
+}
+
+.red {
+  color: #dc3545 !important;
+  text-decoration: none !important;
+}
+
+.red:hover {
+  color: whitesmoke !important;
+}
+
+button:hover {
+  color: whitesmoke !important;
+}
+
+.carousel-inner {
+  height: 50vh !important;
+}
+
+.jumbotron {
+  text-align: center;
+  margin: 0 auto;
+}
+
+bottom-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
